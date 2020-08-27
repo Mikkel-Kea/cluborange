@@ -1,22 +1,5 @@
 
 
-/*
-* ----------------------------------------------------------------------------------------
-* 01.GLOBAL CSS STYLE
-* 02.PRELOADER & BOUNCE CCS STYLE
-* 03.HOMEPAGE CSS STYLE
-* 4.VIDEO BACKGROUND CSS STYLE
-* 06.FEATURE CSS STYLE
-* 07.APP LIST CSS
-* 08.TOTAL DOWNLOAD CSS STYLE
-* 09.TEAM CSS STYLE
-* 10.USER CSS STYLE
-* 11.PRICING CSS STYLE
-* 12.DOWNLOAD CSS STYLE
-* 13.CONTACT CSS STYLE
-* 14.FOOTER CSS STYLE
-* ----------------------------------------------------------------------------------------
-*/
 
 
 /*
@@ -125,6 +108,7 @@ fieldset {
 
 .section-title p {
     font-weight: 300;
+    position: ;
 }
 
 a.read-more {
@@ -174,9 +158,9 @@ a.read-more:hover {
     height: 350px;
     width: 280px;
     position: absolute;
-    left: 90%;
+    left: 800px;
     bottom: 20%;
-    right: 10%;
+    right: 30px;
     top: 20%
 }
 
@@ -312,6 +296,7 @@ a.read-more:hover {
     margin: 0;
     font-weight: 300;
 }
+
 
 .header-text p {
     color: #fff;
@@ -691,6 +676,7 @@ a.slide-btn:hover {
 }
 
 .single-team img {
+    height: 600px;
 }
 
 .single-team h4 {
